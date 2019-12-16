@@ -15,11 +15,9 @@ def create():
     """
     req_data = request.get_json()
     data, error = user_schema.load(req_data)
-
     if error:
         return custom_response(error, 400)
 
-    # check if user already exist in the db
     user_in_db = UserModel.get_user_by_email(data.get('email'))
     if user_in_db:
         message = {'error': 'User already exist, please supply another email address'}

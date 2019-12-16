@@ -1,0 +1,64 @@
+POST http://127.0.0.1:5000/api/v1/users/
+Accept: */*
+Cache-Control: no-cache
+
+{ 	"email": "myname@email.com", 	"password": "Password!", 	"name": "name" }
+
+###
+
+POST http://127.0.0.1:5000/api/v1/users/
+Accept: */*
+Cache-Control: no-cache
+
+{ 	"email": "myname@email.com", 	"password": "Password!", 	"name": "name" }
+
+###
+
+POST http://127.0.0.1:5000/api/v1/users/
+Accept: */*
+Cache-Control: no-cache
+
+{ 	"email": "myname@email.com", 	"password": "Password!", 	"name": "name" }
+
+###
+
+POST http://127.0.0.1:5000/api/v1/users/
+Accept: */*
+Cache-Control: no-cache
+
+{ 	"email": "myname@email.com", "password": "Password!", "name": "name" }
+
+###
+
+POST http://127.0.0.1:5000/api/v1/users/
+Accept: */*
+Cache-Control: no-cache
+
+{ 	"email": "myname@email.com", "password": "Password!", "name": "name" }
+
+###
+
+POST http://127.0.0.1:5000/api/v1/users/
+Accept: */*
+Cache-Control: no-cache
+
+{ 	"email": "myname@email.com", 	"password": "Password!", 	"name": "name" }
+
+###
+
+POST http://127.0.0.1:5000/api/v1/users/
+Accept: */*
+Cache-Control: no-cache
+
+{ 	"email": "myname@email.com", 	"password": "Password!", 	"name": "name" }
+
+###
+
+POST http://l127.0.0.1:5000/api/v1/users/
+Accept: */*
+Cache-Control: no-cache
+
+{ 	"email": "myname@email.com", 	"password": "Password!", 	"name": "name" }
+
+###
+

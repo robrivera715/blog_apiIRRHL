@@ -1,4 +1,4 @@
-#WebApp Part 3
+#Homework: Web Application Part 3
 
 This project was to build a RESTful Blog APIs using python and flask - Part 3.
 
